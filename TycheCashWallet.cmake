@@ -1,0 +1,5 @@
+
+set(CN_PROJECT_NAME "TycheCashGUI")
+set(CN_CURRENCY_DISPLAY_NAME "TycheCash")
+set(CN_CURRENCY_TICKER "TYCH")
+
